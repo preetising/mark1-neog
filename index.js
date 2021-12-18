@@ -14,7 +14,7 @@ console.log("you enter "+userAnswer)
 
 //processs
 
-if (userAnswer==AnswerOne){
+if (userAnswer==answerOne){
   //output
 
   console.log("you are right")
